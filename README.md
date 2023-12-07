@@ -18,7 +18,7 @@ In the realm of coding, I view each line of code as a spell, meticulously woven 
 - **Illusion**: Creating captivating user interfaces and experiences that deceive the eye with visual magic, making digital worlds come to life.
 - **Transmutation**: Transforming data and structures into different forms or formats, like an alchemical transformation.
 
-These magical disciplines are the threads that weave together my ever-expanding grimoire of repositories. Explore their incantations and join me on a journey through the enchanted realms of code. 🪄🌟
+These magical disciplines are the threads that weave together my ever-expanding library of spells. 🪄🌟
 
 ## 🎮 Interests
 
