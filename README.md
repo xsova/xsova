@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at Southern New Hampshire University, specializing in Software Development. Hailing from Morro Bay, CA, and currently based in Omaha, NE, I blend the art of modern technology with the mystique of spell writing.
+I'm a Computer Science student at Southern New Hampshire University, specializing in Software Development. Originally from Morro Bay, CA, and currently based in Omaha, NE, I blend the art of modern technology with the magic of spell writing.
 
-By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By night, I'm a modern-day wizard, crafting spells (a.k.a. code) and compiling my grimoire of repositories with magical incantations that breathe life into machines.
+By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By night, I'm a modern-day wizard, crafting spells (a.k.a. code) and compiling my library of repositories with magical incantations that breathe life into machines.
 
 ## 🧙‍♂️ The Art of Spell Writing
 
