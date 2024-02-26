@@ -6,20 +6,6 @@ I'm a Computer Science student at Southern New Hampshire University, specializin
 
 By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By night, I'm a modern-day wizard, crafting spells (a.k.a. code) and compiling my library of repositories with magical incantations that breathe life into machines.
 
-## 🧙‍♂️ The Art of Spell Writing
-
-In the realm of coding, I view each line of code as a spell, meticulously woven to create digital magic. My grimoire (repositories) is an ever-growing collection of these spells, ready to solve problems and create wonders with a flick of electricity. As a student of the arcane, I tend to gravitate toward:
-
-- **Abjuration**: Crafting meticulous test suites, plans, and cases to safeguard software integrity.
-- **Alchemy**: Experimenting with new technologies and frameworks to create innovative solutions, akin to the art of transmutation.
-- **Divination**: Harnessing the power of data parsing and decision-making spells to uncover hidden insights.
-- **Enchantment**: Breathing life into mundane tasks by conjuring reusable automations, akin to the whimsical mops from Fantasia.
-- **Evocation**: Conjuring innovative wonders through spells that generate novel creations, such as generative visual or audio art.
-- **Illusion**: Creating captivating user interfaces and experiences that deceive the eye with visual magic, making digital worlds come to life.
-- **Transmutation**: Transforming data and structures into different forms or formats, like an alchemical transformation.
-
-These magical disciplines are the threads that weave together my ever-expanding library of spells. 🪄🌟
-
 ## 🎮 Interests
 
 - 🎵 Making and listening to music
