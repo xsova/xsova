@@ -17,11 +17,10 @@ By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By
 ## 📫 How to Reach Me
 
 - **Discord:** Find me @xsova.
-- **Merveilles:** I'm in the Town @xsova.
+- **Merveilles:** I'm in the Town @xsova@merveilles.town.
 - **LinkedIn:** [My Professional Profile](https://www.linkedin.com/in/brycexsova)
-- **More Socials:** Check out my account's sidebar for various social media links.
 
-[No need for hellos, just dive right in.](https://nohello.net/en/)
+[Don't just say 'hey', though.](https://nohello.net/en/)
 
 ---
 
