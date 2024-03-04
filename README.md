@@ -1,10 +1,10 @@
-# Hi, I'm Bryce (xSova) 👋
+# Hi, I'm Bryce (xsova) 👋
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student at Southern New Hampshire University, specializing in Software Development. Originally from Morro Bay, CA, and currently based in Omaha, NE, I blend the art of modern technology with the magic of spell writing.
+I'm a Computer Science student at Southern New Hampshire University, specializing in Software Development. Originally from Morro Bay, CA, and currently based in Omaha, NE, I (at least in my head) blend the art of modern technology with the magic of spell writing.
 
-By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By night, I'm a modern-day wizard, crafting spells (a.k.a. code) and compiling my library of repositories with magical incantations that breathe life into machines.
+By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By night, I'm crafting spells (a.k.a. code) and compiling my library of repositories with magical incantations that breathe life into machines.
 
 ## 🎮 Interests
 
@@ -17,7 +17,7 @@ By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By
 ## 📫 How to Reach Me
 
 - **Discord:** Find me @xsova.
-- **Merveilles:** I'm in the Town @xsova@merveilles.town.
+- **Merveilles:** I'm in the Town @xsova.
 - **LinkedIn:** [My Professional Profile](https://www.linkedin.com/in/brycexsova)
 
 [Don't just say 'hey', though.](https://nohello.net/en/)
