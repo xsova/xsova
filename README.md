@@ -14,7 +14,7 @@ By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By
 - coding and trying to make stuff that makes stuff
 - 🔮 [Pondering the orb](https://orbsimulator.glitch.me).
 
-## how to Reach Me
+## contact
 
 - **Discord:** Find me @xsova.
 - **Merveilles:** I'm in the Town @xsova.
