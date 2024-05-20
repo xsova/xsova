@@ -1,20 +1,20 @@
-# Hi, I'm Bryce (xsova) 👋
+# Hi, I'm Bryce (xsova)
 
-## 👨‍💻 About Me
+## who
 
-I'm a Computer Science student at Southern New Hampshire University, specializing in Software Development. Originally from Morro Bay, CA, and currently based in Omaha, NE, I (at least in my head) blend the art of modern technology with the magic of spell writing.
+I'm a Computer Science student at [SNHU](https://snhu.edu), specializing in Software Development. Originally from Morro Bay, CA, and currently based in Omaha, NE- I blend the art of modern technology with the magic of spell writing.
 
-By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By night, I'm crafting spells (a.k.a. code) and compiling my library of repositories with magical incantations that breathe life into machines.
+By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By night, I write code and breathe life into the machines.
 
-## 🎮 Interests
+## interests
 
-- 🎵 Making and listening to music
-- 🕹️ Playing video games
-- 📚 Accumulating (and sometimes completing) online courses
-- ✨ Writing spells (coding) and expanding my grimoire (repositories)
+- making and listening to music
+- playing video games
+- accumulating (and sometimes completing) online courses
+- coding and trying to make stuff that makes stuff
 - 🔮 [Pondering the orb](https://orbsimulator.glitch.me).
 
-## 📫 How to Reach Me
+## how to Reach Me
 
 - **Discord:** Find me @xsova.
 - **Merveilles:** I'm in the Town @xsova.
@@ -23,7 +23,5 @@ By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By
 [Don't just say 'hey', though.](https://nohello.net/en/)
 
 ---
-
-*P.S. As a budding spellwriter in the digital realm, I'm always eager to connect with fellow wizards, witches, and no-majs alike. Let's cast some spells together!*
 
 
