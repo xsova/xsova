@@ -16,6 +16,3 @@ I'm a Computer Science student at [SNHU](https://snhu.edu), with a concentration
 - **Merveilles:** I'm in the Town @xsova.
 - **LinkedIn:** [My Professional Profile](https://www.linkedin.com/in/brycexsova)
 
----
-
-
