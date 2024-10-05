@@ -1,26 +1,20 @@
 # Hi, I'm Bryce (xsova)
 
-## who
+## Who
 
-I'm a Computer Science student at [SNHU](https://snhu.edu), specializing in Software Development. Originally from Morro Bay, CA, and currently based in Omaha, NE- I blend the art of modern technology with the magic of spell writing.
+I'm a Computer Science student at [SNHU](https://snhu.edu), with a concentration in Software Development. Originally from Morro Bay, CA, and currently based in Omaha, NE.
 
-By day, I'm a Software QA Engineer at [RTG Medical](https://rtgmedical.com/). By night, I write code and breathe life into the machines.
+## Stuff I like
 
-## interests
+- Making changes to my config files
+- Customizing keyboard hardware, firmware, and layouts
+- Trying to learn all the things
 
-- making and listening to music
-- playing video games
-- accumulating (and sometimes completing) online courses
-- coding and trying to make stuff that makes stuff
-- 🔮 [Pondering the orb](https://orbsimulator.glitch.me).
-
-## contact
+## Contact info
 
 - **Discord:** Find me @xsova.
 - **Merveilles:** I'm in the Town @xsova.
 - **LinkedIn:** [My Professional Profile](https://www.linkedin.com/in/brycexsova)
-
-[Don't just say 'hey', though.](https://nohello.net/en/)
 
 ---
 
